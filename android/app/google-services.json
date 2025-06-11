@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734276205361",
+    "project_id": "sg-alert-af280",
+    "storage_bucket": "sg-alert-af280.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734276205361:android:ee2ba154226bf94bb70e10",
+        "android_client_info": {
+          "package_name": "com.chandu.sg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn7q9uYBmzwqF_ipgoiQN3vqaApVk8-bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
