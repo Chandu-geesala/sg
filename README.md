@@ -25,7 +25,7 @@ A fully-featured Flutter application to display real-time disaster alerts with c
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/disaster-alert-app.git
+git clone https://github.com/Chandu-geesala/disaster-alert-app.git
 cd disaster-alert-app
 flutter pub get
 flutter run
