@@ -6,6 +6,7 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 
+import 'Frontend/splashScreen/splash_screen.dart';
 import 'home.dart';
 
 // Global notification plugin instance
@@ -252,7 +253,7 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: Color(0xFFF0F1F6),
       ),
       debugShowCheckedModeBanner: false,
-      home: HomePage(),
+      home: MysplashScreen(),
       // Add route handling for deep links
       onGenerateRoute: (settings) {
         if (settings.name == '/disaster-detail') {
